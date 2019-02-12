@@ -9,7 +9,7 @@ the *launch binder* button to run them interactively via [Binder](https://mybind
 - 2-dimensional plots
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/egourgoulhon/SageMathTour/master?filepath=Notebooks%2Fplot_tour_2D.ipynb)
 - 3-dimensional plots
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/egourgoulhon/SageMathTour/master?filepath=Notebooks%2Fplot_tour_2D.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/egourgoulhon/SageMathTour/master?filepath=Notebooks%2Fplot_tour_3D.ipynb)
 - Solving equations
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/egourgoulhon/SageMathTour/master?filepath=Notebooks%2Fsolve_tour.ipynb)
 - Solving differential equations
