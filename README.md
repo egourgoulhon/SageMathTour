@@ -1,6 +1,6 @@
 # SageMathTour
 
-This repository contains various demo and introductory notebooks about
+This repository contains various demo Jupyter notebooks about
 [SageMath](http://www.sagemath.org/). For each of them, you can click on
 the *launch binder* button to run them interactively via [Binder](https://mybinder.org/).
 
