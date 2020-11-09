@@ -22,3 +22,6 @@ the *launch binder* button to run them interactively via [Binder](https://mybind
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/egourgoulhon/SageMathTour/master?filepath=Notebooks%2Fdemo_black_hole_metric.ipynb)
 - [Computation of the surface gravity of a Schwarzschild black hole](https://nbviewer.jupyter.org/github/egourgoulhon/SageMathTour/blob/master/Notebooks/surface_gravity_Schwarz.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/egourgoulhon/SageMathTour/master?filepath=Notebooks%2Fsurface_gravity_Schwarz.ipynb)
+- [Pseudo-Riemannian manifolds: the Schwarzschild spacetime example](https://nbviewer.jupyter.org/github/egourgoulhon/SageMathTour/blob/master/Notebooks/demo_pseudo_Riemannian_Schwarzschild.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/egourgoulhon/SageMathTour/master?filepath=Notebooks%2Fdemo_pseudo_Riemannian_Schwarzschild.ipynb)
+
